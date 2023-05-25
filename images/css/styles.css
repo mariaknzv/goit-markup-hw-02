@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {}
+
+.header-navigation {}
+
+.header-logo {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: #2E2F42;
+}
+
+.header-list {}
+
+.header-list-item {}
+
+.header-list-link {}
+
+.address {}
+
+.address-list {}
+
+.address-list-item {}
+
+.address-list-link {}
