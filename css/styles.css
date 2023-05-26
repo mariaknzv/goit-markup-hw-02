@@ -215,15 +215,18 @@ body {
 }
 
 .footer-logo span {
-    color: #f4f4fd;
+    color: #F4F4FD;
 }
 
 .footer-text {
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #4d5ae5;
+    color: #F4F4FD;
+
 }
 
 
